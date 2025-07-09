@@ -1,0 +1,14 @@
+C:\Users\Sus\Desktop\ligma\Sims -3\Sims -3\bin\Debug\net8.0\GameSim.exe
+C:\Users\Sus\Desktop\ligma\Sims -3\Sims -3\bin\Debug\net8.0\GameSim.deps.json
+C:\Users\Sus\Desktop\ligma\Sims -3\Sims -3\bin\Debug\net8.0\GameSim.runtimeconfig.json
+C:\Users\Sus\Desktop\ligma\Sims -3\Sims -3\bin\Debug\net8.0\GameSim.dll
+C:\Users\Sus\Desktop\ligma\Sims -3\Sims -3\bin\Debug\net8.0\GameSim.pdb
+C:\Users\Sus\Desktop\ligma\Sims -3\Sims -3\obj\Debug\net8.0\GameSim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sus\Desktop\ligma\Sims -3\Sims -3\obj\Debug\net8.0\GameSim.AssemblyInfoInputs.cache
+C:\Users\Sus\Desktop\ligma\Sims -3\Sims -3\obj\Debug\net8.0\GameSim.AssemblyInfo.cs
+C:\Users\Sus\Desktop\ligma\Sims -3\Sims -3\obj\Debug\net8.0\GameSim.csproj.CoreCompileInputs.cache
+C:\Users\Sus\Desktop\ligma\Sims -3\Sims -3\obj\Debug\net8.0\GameSim.dll
+C:\Users\Sus\Desktop\ligma\Sims -3\Sims -3\obj\Debug\net8.0\refint\GameSim.dll
+C:\Users\Sus\Desktop\ligma\Sims -3\Sims -3\obj\Debug\net8.0\GameSim.pdb
+C:\Users\Sus\Desktop\ligma\Sims -3\Sims -3\obj\Debug\net8.0\GameSim.genruntimeconfig.cache
+C:\Users\Sus\Desktop\ligma\Sims -3\Sims -3\obj\Debug\net8.0\ref\GameSim.dll
