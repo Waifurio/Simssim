@@ -1,0 +1,35 @@
+# Build output
+bin/
+obj/
+*.exe
+*.dll
+
+# Visual Studio
+.vscode/
+*.user
+*.suo
+*.sln.docstates
+
+# Rider / JetBrains
+.idea/
+
+# dotnet artifacts
+project.lock.json
+project.assets.json
+artifacts/
+
+# ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# Logs
+*.log
+
+# OS junk
+*.DS_Store
+Thumbs.db
+
+# Temporary
+*.tmp
+*.bak
+*.swp
